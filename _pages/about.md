@@ -22,6 +22,6 @@ I have done full-time software engineering work at [Amazon](https://www.amazon.c
 
 ## Updates
 
-- July 2024: My work on trade-offs in rating systems was accepted to ICWSM 2025! You can find the arXiV link [here](https://arxiv.org/pdf/2207.04369.pdf)
+- July 2024: My work on trade-offs in rating systems was accepted to ICWSM 2025! You can find the arXiV link [here](https://arxiv.org/pdf/2207.04369.pdf).
 
 - April 2024: I accepted a PhD offer from the MIT Sloan School of Management! I start September of 2024.

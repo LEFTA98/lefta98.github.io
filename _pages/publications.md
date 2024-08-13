@@ -5,10 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-- [Balancing Producer Fairness and Efficiency via Bayesian Rating System Design](https://arxiv.org/abs/2207.04369)\
+- [Balancing Producer Fairness and Efficiency via Prior-Weighted Rating System Design](https://arxiv.org/abs/2207.04369)\
    **Thomas Ma**, Michael S. Bernstein, Ramesh Johari, Nikhil Garg
-   - Submitted to TheWebConf 2024
-   - Presented at KDD 2022 Workshop on Decision Intelligence and Analytics for Online Marketplaces: Jobs, Ridesharing, Retail and Beyond
+   - To be presented at ICWSM 2025
+   - Preliminary version presented at KDD 2022 Workshop on Decision Intelligence and Analytics for Online Marketplaces: Jobs, Ridesharing, Retail and Beyond
 - [Improving Welfare in One-sided Matching using Simple Threshold Queries](https://arxiv.org/abs/2011.13977)\
   **Thomas Ma**, Vijay Menon, Kate Larson
   - Presented at IJCAI 2021

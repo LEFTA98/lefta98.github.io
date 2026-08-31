@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD Student at MIT's Sloan School of Management, in the Information Technology group, currently working with [Dean Eckles](https://www.deaneckles.com/). Before that, I spent half a year in industry as a software engineer at Amazon.
+I am a third-year PhD Candidate at MIT's Sloan School of Management, in the Information Technology group, currently working with [Dean Eckles](https://www.deaneckles.com/). Before that, I spent half a year in industry as a software engineer at Amazon.
 
 Previously, I graduated with a Master's of Science from [Stanford's Management Science and Engineering](https://msande.stanford.edu/) Department, where I conducted research with [Ramesh Johari](https://web.stanford.edu/~rjohari/), [Michael Bernstein](https://hci.stanford.edu/msb/), and [Nikhil Garg](https://gargnikhil.com/). I did my undergrad at the University of Toronto with a double major in mathematics and computer science, where I did research assistantships with [Kate Larson](https://cs.uwaterloo.ca/~klarson/) and [Peter Marbach](https://www.cs.toronto.edu/~marbach/).
 

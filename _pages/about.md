@@ -22,6 +22,10 @@ I have done full-time software engineering work at [Amazon](https://www.amazon.c
 
 ## Updates
 
+- November 2026: I am on the program committee for [CODE 2026](https://ide.mit.edu/events/2026-conference-on-digital-experimentation-mit-codemit/). I am also interested in PhD internships regarding platform experimentation and computational social science this coming summer of 2027. If you work for an online platform and are open to collaborations with academia, please reach out!
+
+- July 2026: I presented an early-stage version of my work analyzing short-form video on TikTok and YouTube at IC2S2 2026!
+
 - July 2025: My rating systems paper was published in the proceedings of ICWSM 2025. The official version can be found [here](https://ojs.aaai.org/index.php/ICWSM/index#:~:text=Balancing%20Producer%20Fairness%20and%20Efficiency%20via%20Prior%2DWeighted%20Rating%20System%20Design).
 
 - July 2024: My work on trade-offs in rating systems was accepted to ICWSM 2025! You can find the arXiV link [here](https://arxiv.org/pdf/2207.04369.pdf).

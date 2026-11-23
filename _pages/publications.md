@@ -5,9 +5,18 @@ permalink: /publications/
 author_profile: true
 ---
 
+- Legacy News and Influencers in TikTok’s
+Attention Economy (manuscript forthcoming)\
+   Jennifer Allen, **Thomas Ma**, Dean Eckles
+   - To be presented at WISE 2026
+
+- Understanding Media Diet and App Usage Across Multiple Short-Form Video Platforms (manuscript forthcoming)\
+   **Thomas Ma**, Francesco Corso, Jennifer Allen, Dean Eckles
+   - Preliminary version presented at IC2S2 2026
+
 - [Balancing Producer Fairness and Efficiency via Prior-Weighted Rating System Design](https://arxiv.org/abs/2207.04369)\
    **Thomas Ma**, Michael S. Bernstein, Ramesh Johari, Nikhil Garg
-   - To be presented at ICWSM 2025
+   - Presented at ICWSM 2025
    - Preliminary version presented at KDD 2022 Workshop on Decision Intelligence and Analytics for Online Marketplaces: Jobs, Ridesharing, Retail and Beyond
 - [Improving Welfare in One-sided Matching using Simple Threshold Queries](https://arxiv.org/abs/2011.13977)\
   **Thomas Ma**, Vijay Menon, Kate Larson
